@@ -23,14 +23,11 @@ mvn spring-boot:run
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [IntelliJ](https://www.jetbrains.com/es-es/idea/) - IDE para Java
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Fernando Gordillo Sanchez** - *Trabajo Inicial* - [FernandoDranzer21](https://github.com/FernandoDranzer21)
 
